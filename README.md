@@ -22,7 +22,7 @@ Junaid is a highly motivated software architect with 5+ years of professional an
 
 ✅ PHP, Laravel, VueJS, WordPress 🌐
 
-✅ Amazon Web Services, Cpanel (Shared Hosting) ☁️
+✅ Cpanel (Shared Hosting) ☁️
 
 ✅ Git, Github, Bitbucket, Gitlab (Version Control System) ⛓️
 
