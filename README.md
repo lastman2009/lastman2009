@@ -24,7 +24,7 @@ and much more... ❤️
 
 🖥️ Technologies which Atif has extensively used throughout his career:
 
-✅ PHP, Laravel, VueJS, WordPress 🌐
+✅ PHP, Laravel, VueJS 🌐
 
 ✅ Cpanel (Shared Hosting) ☁️
 
