@@ -25,6 +25,7 @@ and much more... ❤️
 🖥️ Technologies which Atif has extensively used throughout his career:
 
 ✅ PHP, Laravel, VueJS 🌐
+✅ laravel ( livewire , jetstream )🧲
 
 ✅ Cpanel (Shared Hosting) ☁️
 
@@ -32,7 +33,7 @@ and much more... ❤️
 
 ✅ Mysql 🗄️
 
-✅ WordPress, Magento, Shopify (CMS) 🧲
+
 
 Thanks for reading all of this. 😄
 
